@@ -1,0 +1,14 @@
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\bin\Debug\net8.0\C# Training.exe
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\bin\Debug\net8.0\C# Training.deps.json
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\bin\Debug\net8.0\C# Training.runtimeconfig.json
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\bin\Debug\net8.0\C# Training.dll
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\bin\Debug\net8.0\C# Training.pdb
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\obj\Debug\net8.0\C# Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\obj\Debug\net8.0\C# Training.AssemblyInfoInputs.cache
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\obj\Debug\net8.0\C# Training.AssemblyInfo.cs
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\obj\Debug\net8.0\C# Training.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\obj\Debug\net8.0\C# Training.dll
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\obj\Debug\net8.0\refint\C# Training.dll
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\obj\Debug\net8.0\C# Training.pdb
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\obj\Debug\net8.0\C# Training.genruntimeconfig.cache
+C:\Users\Santiago Misas\Documents\Developer\C# Start\C# Training\C# Training\obj\Debug\net8.0\ref\C# Training.dll
