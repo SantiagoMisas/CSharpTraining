@@ -19,9 +19,11 @@
 //var numero = int.Parse(Console.ReadLine());
 
 ////Bucle For
-//if (numero != null){
-//    for (int i=1; i<=10;i++) {
-//    Console.WriteLine($"{numero} * {i} = {numero*i}");
+//if (numero != null)
+//{
+//    for (int i = 1; i<=10; i++)
+//    {
+//        Console.WriteLine($"{numero} * {i} = {numero*i}");
 //    }
 //}
 //Console.WriteLine("ciclo while, ingrese un numero menor que 20");
@@ -29,7 +31,8 @@
 
 
 ////Bucle While
-//while (number<=20) {
+//while (number<=20)
+//{
 //    Console.WriteLine($"numero: {number}");
 //    number++;
 //}
@@ -38,7 +41,8 @@
 //int dwnumber = 0;
 //int acumulator = 0;
 
-//do {
+//do
+//{
 //    Console.WriteLine("do while, Ingresa el numero a acumular: ");
 //    dwnumber =int.Parse(Console.ReadLine()!);
 //    acumulator += dwnumber;
@@ -47,3 +51,5 @@
 //while (dwnumber != 0);
 
 //Console.WriteLine($"total acumulado: {acumulator}");
+
+
